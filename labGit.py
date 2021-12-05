@@ -14,6 +14,3 @@ def mcd(x,y):
 
 print(mcd(x,y))
 print("fin")
-print("fin")
-print("fin")
-print("fin")
