@@ -8,4 +8,5 @@ if numero >0:
     print(*impares, sep=",")        
         
 else:
-    print("Introduce un numero correcto")        
+    print("Introduce un numero correcto")  
+    print("Fin del programa")
