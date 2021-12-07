@@ -4,5 +4,6 @@ for i in range(1,11):
     print("tabla del",i)
     print("_________________")
     for j in range(1,13):
-        print(i , " x" , j , "=" , (j*i))
+        print(i , " x" , j , "=" , (j*i)
+print("fin del programa")
     
